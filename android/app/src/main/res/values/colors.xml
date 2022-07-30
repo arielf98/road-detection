@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="tfe_color_primary">#ffa800</color>
-    <color name="tfe_color_primary_dark">#ff6f00</color>
+    <color name="tfe_color_primary">#A9A9A9</color>
+    <color name="tfe_color_primary_dark">#A9A9A9</color>
     <color name="tfe_color_accent">#425066</color>
-
     <color name="tfe_semi_transparent">#66000000</color>
+    <color name="tfe_green_button">#228b22</color>
+    <color name="tfe_button_white">#ffffff</color>
+    <color name="tfe_button_black">#000000</color>
 </resources>
